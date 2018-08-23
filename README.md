@@ -1,2 +1,2 @@
-# Web-crawler-and-screenshots
-Save the screenshots of all the webpage that we crawled from some seed URLs.
+# Web-crawler
+We can select the level of the URLs.
